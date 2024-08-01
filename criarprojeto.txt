@@ -1,2 +1,0 @@
-Esse comando cria um projeto 
-npm init react -app etec-filmes
