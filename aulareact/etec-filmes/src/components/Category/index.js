@@ -11,7 +11,7 @@ export const categorias = [
 ]
 
 export function filterCategory(id){
-return videos.filter( video => video.category === categories[id] )
+return videos.filter( video => video.category === categorias[id] )
 }
 
 function Category({category,children}){
