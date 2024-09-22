@@ -1,9 +1,9 @@
 import styles from './Footer.module.css';
 
 function Footer(){
-    return(
+    return (
         <footer className={styles.footer}>
-            <h2>Desenvolvido por Aline</h2>
+            <h2>Desenvolvido por Enzo Caetano &reg; 2024</h2>
         </footer>
     );
 }

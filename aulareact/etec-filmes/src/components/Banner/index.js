@@ -2,9 +2,9 @@ import styles from './Banner.module.css';
 
 function Banner({ image }){
     return(
-        <div
+        <div 
             className={styles.banner}
-            style={{ backgroundImage: `url('/images/banner-${image}.png')` }}
+            style={{ backgroundImage: `url('/img/banner-${image}.png')` }}
         ></div>
     );
 }
