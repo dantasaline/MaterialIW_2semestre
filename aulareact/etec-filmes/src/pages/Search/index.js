@@ -18,8 +18,6 @@ function Search(){
 
         <Header/>
 
-        <Banner image="assistir"/>
-
         <Container>
 
           <section className ={styles.search}>

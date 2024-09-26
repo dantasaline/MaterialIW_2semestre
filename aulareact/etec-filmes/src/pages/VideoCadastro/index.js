@@ -12,8 +12,6 @@ function Vcadastro(){
         <>
         
         <Header></Header>
-
-       
         
         <Container >
 

@@ -18,8 +18,6 @@ function Favorites(){
         <>
         <ScrollTop></ScrollTop>
         <Header> </Header>
-        <Banner image="favoritos" />
-
         <Container>
 
           
